@@ -6,7 +6,7 @@ MATLAB code on project: Role of Energy Positive Buildings in Future Low-Carbon E
 - Basic residential building model with Model Predictive Control (MPC)
 --------------------------------------------------------------------------------------------------------------------------------
 - Components: Heat Pump (HP), LiFePO4 Battery, Solar PV, Electricity Grid, Residential Model
-- Exogenous variables: External Temperature, Electricity Tariff, DR Availability, DR Call Signal, Probabilistic Incentives
+- Exogenous variables: External Temperature, Solar Irradiance, Electricity Tariff, DR Availability, DR Call Signal, Probabilistic Incentives
 --------------------------------------------------------------------------------------------------------------------------------
 - Study of Demand Response (DR) approach 
 - Interplay of lottery incentive system, constant incentives, and time-varying prices
